@@ -1,4 +1,4 @@
-
+//Jonathan Zhang
 public class SmallBusiness extends Business {
 
     public SmallBusiness(String name) {
