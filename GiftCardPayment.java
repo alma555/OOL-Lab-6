@@ -1,3 +1,4 @@
+//Alma Thompson
 public class GiftCardPayment implements PaymentStrategy{
     @Override
     public void processPayment(double amount) {
