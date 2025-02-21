@@ -1,4 +1,4 @@
-
+//Jonathan Zhang
 public class Restaurant extends Business{
     public Restaurant(String name) {
         super(name);
