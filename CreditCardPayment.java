@@ -1,3 +1,4 @@
+//Jonathan Zhang
 public class CreditCardPayment implements PaymentStrategy{
     public String credCardName;
 
